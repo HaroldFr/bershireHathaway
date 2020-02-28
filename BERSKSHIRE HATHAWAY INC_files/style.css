@@ -1,0 +1,67 @@
+body {
+	color: navy;
+}
+header {
+	text-align: center;
+	margin-bottom: 15px;
+}
+h1 {
+	font-size: 18px;
+}
+
+h2 {
+	font-size: 16px;
+}
+
+.large {
+	font-size: 32px;
+}
+.small {
+	font-size: 13px;
+}
+
+h1, h2 {
+	margin: 0;
+}
+
+address {
+	font-weight: bold;
+	font-style: normal;
+	font-size: 13px;
+}
+a {
+	color: purple;
+}
+a:visited {
+	color: red;
+}
+.update {
+	font-size: 10px;
+}
+.links {
+	display: flex;
+	margin: 0 40px;
+}
+ul {
+	width: 50%;
+}
+li {
+	margin-bottom: 30px;
+}
+img {
+	display: block;
+	margin: auto;
+}
+.ad {
+	text-align: center;
+	font-size: 10px;
+}
+p {
+	font-size: 13px;
+}
+.legal {
+	margin-bottom: 20px;
+}
+.copywrite {
+	font-size: 10px;
+}
